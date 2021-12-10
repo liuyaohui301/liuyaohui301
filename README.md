@@ -3,6 +3,7 @@
 - 🌱 I’m currently a student in CUHK
 - 💞️ I’m looking to collaborate on software development
 - 📫 Contact me via email to liuyaohui301@gmail.com
+- 🐾 Now is better than never. Although never is often better than *right* now.
 
 <!---
 liuyaohui301/liuyaohui301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
