@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Louis Liu
 - 👀 I’m interested in software engineering, big data and machine learning
-- 🌱 I’m currently a student in CUHK
+- 🌱 I am currently an information engineering student at CUHK and graduated from Wuhan University with a degree in software engineering
 - 💞️ I’m looking to collaborate on software development
 - 📫 Contact me via email to liuyaohui301@gmail.com
 - 🐾 Now is better than never. Although never is often better than *right* now.
